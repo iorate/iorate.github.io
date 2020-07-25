@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: uBlacklist
+    url: /ublacklist/introduction
+  - title: Privacy Policy
+    url: /privacy-policy
+
+docs:
+  - title: uBlacklist
+    children:
+      - title: Introduction
+        url: /ublacklist/introduction
+      - title: Getting Started
+        url: /ublacklist/getting-started
+      - title: Advanced Features
+        url: /ublacklist/advanced-features
+  - title: Privacy Policy
+    url: /privacy-policy
