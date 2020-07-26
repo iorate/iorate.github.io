@@ -1,14 +1,13 @@
 main:
   - title: uBlacklist
-    url: /ublacklist/introduction
+    url: /ublacklist/
   - title: Privacy Policy
     url: /privacy-policy
 
 docs:
   - title: uBlacklist
+    url: /ublacklist/
     children:
-      - title: Introduction
-        url: /ublacklist/introduction
       - title: Getting Started
         url: /ublacklist/getting-started
       - title: Advanced Features

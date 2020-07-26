@@ -1,8 +1,6 @@
-# Minimal Mistakes
+# Site settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
-
-# Site settings
 title: iorate.github.io
 name: iorate
 description: iorate's site
