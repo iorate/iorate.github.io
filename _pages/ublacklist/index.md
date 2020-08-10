@@ -5,7 +5,7 @@ title: uBlacklist
 
 uBlacklist is a Google Search filter for Chrome and Firefox.
 
-[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/) / [Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/ublacklist/)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/) / [Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/ublacklist/) / [GitHub](https://github.com/iorate/ublacklist)
 
 
 ## Demo
@@ -15,8 +15,8 @@ uBlacklist is a Google Search filter for Chrome and Firefox.
 ## Features
 - Prevent blocked sites from appearing even in a moment
 - Block sites flexibly using match patterns and regular expressions
-- Support DuckDuckGo (partially) and Startpage.com
-- Synchronize blacklists among devices using Google Drive and Dropbox
+- Support [DuckDuckGo](https://duckduckgo.com/) (partially) and [Startpage.com](https://www.startpage.com/)
+- Synchronize blacklists among devices using Google Drive or Dropbox
 - Subscribe to public blacklists
 - Support Firefox for Android (without synchronization)
 
