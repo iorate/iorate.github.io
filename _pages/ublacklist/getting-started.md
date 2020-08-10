@@ -4,7 +4,7 @@ title: Getting Started
 ---
 
 ## Install
-You can install uBlacklist from [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/related?hl=en) or [Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/ublacklist/).
+You can install uBlacklist from [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/) or [Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/ublacklist/).
 
 <p class="notice--warning">
 <strong>NOTE:</strong> uBlacklist requires many site permissions on install. They are necessary to support all domains where Google Search is provided (google.com, google.ac, google.ad, ...).

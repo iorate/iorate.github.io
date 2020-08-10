@@ -5,6 +5,9 @@ title: uBlacklist
 
 uBlacklist is a Google Search filter for Chrome and Firefox.
 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/) / [Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/ublacklist/)
+
+
 ## Demo
 ![demo](/assets/images/ublacklist/demo.gif)
 
