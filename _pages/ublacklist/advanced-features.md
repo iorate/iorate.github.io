@@ -56,11 +56,16 @@ This extension supports [DuckDuckGo](#duckduckgo) (partially) and [Startpage.com
 ### DuckDuckGo
 For now, search scopes other than "All" (e.g. "Images" and "Videos") are not supported.
 
-![duckduckgo](/assets/images/ublacklist/advanced-features/other-search-engines-2.png)
+![duckduckgo](/assets/images/ublacklist/advanced-features/duckduckgo.png)
+
+### Ecosia
+For now, search scopes other than "All" (e.g. "Images" and "Videos") are not supported.
+
+![ecosia](/assets/images/ublacklist/advanced-features/ecosia.png)
 
 ### Startpage.com
 
-![startpage](/assets/images/ublacklist/advanced-features/other-search-engines-3.png)
+![startpage](/assets/images/ublacklist/advanced-features/startpage.png)
 
 ## Sync
 You can synchronize blacklists among devices using Google Drive or Dropbox.

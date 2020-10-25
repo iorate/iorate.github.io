@@ -15,10 +15,10 @@ uBlacklist is a Google Search filter for Chrome and Firefox.
 ## Features
 - Prevent blocked sites from appearing even in a moment
 - Block sites flexibly using match patterns and regular expressions
-- Support [DuckDuckGo](https://duckduckgo.com/) (partially) and [Startpage.com](https://www.startpage.com/)
+- Support [DuckDuckGo](https://duckduckgo.com/), [Ecosia](https://www.ecosia.org/) and [Startpage.com](https://www.startpage.com/) partially
 - Synchronize blacklists among devices using Google Drive or Dropbox
 - Subscribe to public blacklists
-- Support Firefox for Android (without synchronization)
+- <del>Support Firefox for Android (without synchronization)</del> not available in Firefox for Android 79 or later
 
 ## Links
 - [Getting Started](./getting-started)
