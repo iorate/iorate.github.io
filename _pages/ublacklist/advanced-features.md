@@ -49,7 +49,7 @@ Match patterns or regular expressions preceded by `@` mean that the specified si
 They can be used to unblock sites that are blocked by [subscriptions](#subscription). For example, if `http://example.com/` is blocked by a subscription, you can unblock it by `@*://example.com/*`.
 
 ## Other search engines
-This extension supports [DuckDuckGo](#duckduckgo) (partially) and [Startpage.com](#startpagecom) now. This feature is disabled by default and can be enabled in the options page.
+This extension supports [DuckDuckGo](#duckduckgo), [Ecosia](#ecosia) and [Startpage.com](#startpagecom) partially. This feature is disabled by default and can be enabled in the options page.
 
 ![other search engines](/assets/images/ublacklist/advanced-features/other-search-engines-1.png)
 
