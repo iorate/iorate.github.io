@@ -4,6 +4,7 @@ title: Getting Started
 ---
 
 ## Install
+
 You can install uBlacklist from [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe/) or [Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/ublacklist/).
 
 <p class="notice--warning">
@@ -11,6 +12,7 @@ You can install uBlacklist from [Chrome Web Store](https://chrome.google.com/web
 </p>
 
 ## Block a site in search result page
+
 To block a site in search result page, click the "Block this site" link in the search result.
 
 ![block link](/assets/images/ublacklist/getting-started/block-1.png)
@@ -30,6 +32,7 @@ If you click the "Show" link, blocked sites will appear temporarily.
 To unblock a blocked site, click the "Unblock this site" link.
 
 ## Block a current site
+
 To block a site that you are looking at from appearing in search result page, click the toolbar icon. A "Block this site" dialog will be shown.
 
 ![toolbar icon](/assets/images/ublacklist/getting-started/block-current-1.png)
@@ -41,6 +44,7 @@ In recent versions of Chrome, the toolbar icon may be hidden by default. If so, 
 To unblock a blocked site, click the toolbar icon again.
 
 ## Edit blocked sites
+
 To see and edit blocked sites, open the options page. It can be accessed from the toolbar icon.
 
 ![options link](/assets/images/ublacklist/getting-started/options-1.png)
@@ -50,4 +54,5 @@ Blocked sites are displayed on the top of the options page. After editing them, 
 ![blacklist](/assets/images/ublacklist/getting-started/options-2.png)
 
 ## Links
+
 - [Advanced Features](./advanced-features)
